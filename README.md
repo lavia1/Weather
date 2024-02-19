@@ -1,3 +1,3 @@
 # Weather
 
-![Screenshot_20240219_135009_Expo Go](https://github.com/lavia1/Weather/assets/127945558/7c8e77eb-04c2-4b3e-aa39-f44ae9c83bf5)
+![Screenshot_20240219_135009_Expo Go](https://github.com/lavia1/Weather/assets/127945558/353f6dbe-0ff0-4080-a359-e0852c854acd)
